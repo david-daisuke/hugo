@@ -1,0 +1,24 @@
+baseURL = "/"
+
+title = "David's place"
+
+author = "David"
+
+theme = "hugo_theme_robust"
+
+summarylength = 50
+
+HasCJKLanguage = true
+
+DefaultContentLanguage = "ja"
+
+languageCode = "ja-jp"
+
+enableRobotsTXT = true
+
+paginate = 20
+
+[Params]
+description = "Enjoy your life"
+
+dateformat = "2006/01/02"
