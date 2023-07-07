@@ -4,7 +4,7 @@ title = "David's place"
 
 author = "David"
 
-theme = "hugo_theme_robust"
+theme = "blowfish"
 
 summarylength = 50
 
